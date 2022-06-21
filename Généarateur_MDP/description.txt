@@ -1,3 +1,0 @@
-Vous en avez de devoir chercher des mots de passes à chaque fois que vous créez un compte, de devoir vous rappeler quel mot de passe vous avez utiliser pour créer votre compte ?
-Cette application est faite pour vous ! Vous n'avez qu'à présiser combien de caractères vous souhaitez, à quel site ce mot de passe est-il associé, et hop !
-Le mot de passe est enregistré !

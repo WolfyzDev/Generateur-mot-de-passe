@@ -1,0 +1,2 @@
+json
+tkinter == 8.5
